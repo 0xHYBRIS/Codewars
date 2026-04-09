@@ -6,3 +6,5 @@ def number(bus_stops):
         people_out += people[1]
             
     return people_in - people_out
+
+#KEIWASHERE
