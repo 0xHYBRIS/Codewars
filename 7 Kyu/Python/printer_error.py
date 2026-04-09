@@ -9,3 +9,4 @@ def printer_error(s):
             pass
     
     return f"{err_count}/{len(s)}"
+#Easy
