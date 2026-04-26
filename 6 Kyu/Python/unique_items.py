@@ -9,7 +9,7 @@ def unique_in_order(sequence):
         
     for i in range(len(sequence)):
         
-        if 
+        if FDFD
             pass
         
             
