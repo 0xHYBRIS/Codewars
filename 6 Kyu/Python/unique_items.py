@@ -1,15 +1,14 @@
 def unique_in_order(sequence):
+    
+    if len(sequence) == 0:
+        return []
+    
     unique = []
     
-    if len(unique) == 0:
-        unique.append(sequence[])
+    for i in range(len(sequence)):
+        
+        if sequence[i] and sequence [i + 1 if i != len(sequence) else i]:
+            pass
+        
             
-    for unique_items in unique:
-        for items in sequence:
-            if items == unique_items:
-                pass
-            else:
-                unique.append(items)
-                
-            
-    return unique
+    
